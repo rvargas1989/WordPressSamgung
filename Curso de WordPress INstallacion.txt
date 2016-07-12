@@ -1,0 +1,51 @@
+san cristobal 21/11/2015
+
+Curso WordPress Ingenieria Digital.
+
+Carpeta de temas  (/wp-content/themes/)
+
+Carpeta de plugins  (/wp-content/plugins/)
+
+pagina de descarga  ( https://es.wordpress.org/ )
+
+------------------------ Instalacion ------------------------
+
+1) instalar wamp (32bits 0 64bits ) next next next
+
+2) descargar la herramienta WordPress y descomprimir el archivo ( wordpress-4.3-es_ES.zip )
+
+3) cambiar el nombre de la carpeta (wordpress) por el del proyecto a desarrollar (xyz) para montarla en la carpeta (www) del servidor WAMP
+
+4) visualizar el proyecto en cualquier navegador con la direccion ( http://localhost/ )
+
+5) crear base de datos en PhpMyAdmin con la direccion ( http://localhost/phpmyadmin/ ) usuario=(root) clave=(vacio)
+
+6) Asignamos el nombre de la base de datos ( samsung_noviembre ) y el cotejamiento (utf8_spanish2_ci)
+
+7) acedemos a la direccion ( http://localhost/samsung/ ) para la configuracion inicial
+
+8) ingresamos los datos para la configuracion
+	Nombre de la base de datos
+	Usuario de la base de datos
+	Contraseña de la base de datos
+	Servidor de la base de datos
+
+9) ingresamos datos para la pagina titulo , usuario admin, correo etc.....
+
+10) se finaliza la instalacion de wordpress.
+
+
+------------------------ FIN :3 ------------------------
+
+
+
+para acceder a la pagina al publico ( http://localhost/samsung/ )
+
+para acceder a la parte de configuracion de la pagina web ( http://localhost/samsung/wp-admin )
+
+para cargar una pagina de respaldo en wordpress... colo la carpeta con el ZIP y el installer en la WWW
+
+accedemos a localhost al directorio donde esta la carpeta
+
+
+
